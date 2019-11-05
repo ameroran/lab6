@@ -18,10 +18,13 @@ h2{
 }
 
 body{
-background-color: rgb(rgb(192, 54, 54); 
+background-color: rgb(192, 54, 54); 
 
 }
 
-
-
+img{
+    width: 70px;
+    height: 70px;
+    text-align: center;
 }
+

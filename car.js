@@ -1,7 +1,7 @@
-var answer = prompt("Do you love car ( If Yes enter yes if No enter no)")
+var answer = prompt("Do you love car ( If Yes enter 1 if No enter 0)")
 var response ;
 
-if (answer == Yes){
+if (answer == 1){
     response = "The cars waiting you"
 } else {
     response = "You are kidding, right ?"
