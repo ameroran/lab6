@@ -8,4 +8,4 @@ if (answer == 1){
     response = "You are kidding, right ?"
 }
 
-document.write('<h2>' +response+ '<h2>');
+document.write('<h2>' + response + '<h2>');
