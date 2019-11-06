@@ -1,3 +1,4 @@
+'use strict'
 var answer = prompt("Do you love car ( If Yes enter 1 if No enter 0)")
 var response ;
 
